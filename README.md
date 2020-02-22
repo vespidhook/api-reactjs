@@ -15,7 +15,7 @@
 | [Axios](https://github.com/axios/axios)
 |
 
-## :syringe: Project
+## :memo: Project
 
 #### ReacjJS application that consumes the Starwars API showing the data of the planets at random
 
