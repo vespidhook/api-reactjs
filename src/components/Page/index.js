@@ -43,17 +43,21 @@ class Page extends Component {
 
   render() {
     return (
-      <div className="flex-column inline-center cross-center">
-        <h1>
-          <img src={logo} alt="Starwars" />
-        </h1>
-        <View
-          dataState={this.state.dataState}
-          data={this.state.planetData}
-          nextPlanet={this.nextPlanet}
-        />
-        <Emoji text="With ❤️ Bruno | Star Wars" />
-      </div>
+      <>
+        <div className="flex-column inline-center cross-center">
+          <h1>
+            <img src={logo} alt="Starwars" />
+          </h1>
+          <View
+            dataState={this.state.dataState}
+            data={this.state.planetData}
+            nextPlanet={this.nextPlanet}
+          />
+        </div>
+        <footer className="flex-column inline-center cross-center">
+          <Emoji text="With ❤️ Bruno | Star Wars" />
+        </footer>
+      </>
     );
   }
 }
