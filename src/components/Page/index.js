@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import swapi from "../../swapi/swapi";
 import View from "../View";
 import logo from "../../assets/logo.png";
+import Emoji from "react-emoji-render";
 import "./styles.css";
 
 class Page extends Component {
@@ -51,6 +52,7 @@ class Page extends Component {
           data={this.state.planetData}
           nextPlanet={this.nextPlanet}
         />
+        <Emoji text="With ❤️ Bruno | Star Wars" />
       </div>
     );
   }
