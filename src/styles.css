@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 80px;
+  font-family: sans-serif;
+  color: #fff;
+  background-image: url(https://orsted.com/-/media/WWW/Images/Corp/Campaign/SpaceSafari/space-safari-background.png);
+  letter-spacing: 3px;
+}
+
+button {
+  width: 150px;
+  height: 35px;
+  background-color: #ffe81f;
+  font-weight: bold;
+  color: #000;
+  border-radius: 4px;
+  border: 3px solid #ffe81f;
+  font-size: 16px;
+  transition: background 0.5s;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #000;
+  color: #fff;
+}
+
+button:focus {
+  outline: 0;
+}

@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Tomorrow&display=swap");
+
+.view {
+  min-width: 350px;
+  min-height: 280px;
+  border: 3px solid;
+  border: 3px solid #ffe81f;
+  margin: 20px;
+  font: 20px "Tomorrow", sans-serif;
+}
+
+.view .name {
+  background-color: #ffe81f;
+  margin: 0;
+  padding: 20px;
+}
+
+.view .name h1 {
+  margin: 0;
+  color: #000;
+}
+
+.view .body {
+  padding: 20px;
+}
