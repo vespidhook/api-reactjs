@@ -19,9 +19,9 @@
 
 #### ReacjJS application that consumes the Starwars API showing the data of the planets at random
 
-## :computer: Scream
+## :computer: Screen
 
-<img align="center" src="./img/screan.png"></img>
+<img align="center" src="./img/screen.png"></img>
 
 ## :round_pushpin: Installing the Project
 
