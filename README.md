@@ -21,7 +21,7 @@
 
 ## :computer: Scream
 
-<img align="center" src="./img/site.png"></img>
+<img align="center" src="./img/screan.png"></img>
 
 ## :round_pushpin: Installing the Project
 
