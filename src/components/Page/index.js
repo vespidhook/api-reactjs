@@ -54,9 +54,11 @@ class Page extends Component {
             nextPlanet={this.nextPlanet}
           />
         </div>
-        <footer className="flex-column inline-center cross-center">
-          <Emoji text="With ❤️ Bruno | Star Wars" />
-        </footer>
+        <div className="push">
+          <footer className="footer">
+            <Emoji text="With ❤️ Bruno | Star Wars" />
+          </footer>
+        </div>
       </>
     );
   }
