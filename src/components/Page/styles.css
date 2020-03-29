@@ -4,13 +4,11 @@ img {
 
 footer {
   bottom: 0;
-  position: fixed;
   width: 100%;
   align-self: center;
 }
 
 .footer {
-  background: blue;
   height: 100px;
   margin: auto;
   width: 400px;
