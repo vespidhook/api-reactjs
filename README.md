@@ -18,7 +18,7 @@
 ## :memo: Project
 
 #### ReacjJS application that consumes the Starwars API showing the data of the planets at random
-# Demo: https://starwars-planets.netlify.com/
+### Demo: https://starwars-planets.netlify.com/
 
 ## :computer: Screen
 
